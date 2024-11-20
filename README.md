@@ -1,1 +1,1 @@
-BookBot is my first project!
+BookBot reads a file, and returns the amount of words and letters inside of it.
